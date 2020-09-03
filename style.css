@@ -1,3 +1,9 @@
 h1 {
     color: red;
 }
+
+.smukke-div {
+    height: 40px;
+    width: 40px;
+    color: blueviolet;
+}

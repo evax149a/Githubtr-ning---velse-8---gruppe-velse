@@ -4,4 +4,13 @@ h1 {
 
 p {
     color: orange;
+
+h3 {
+    font-size: 3rem;
+}
+
+.smukke-div {
+    height: 40px;
+    width: 40px;
+    color: blueviolet;
 }
